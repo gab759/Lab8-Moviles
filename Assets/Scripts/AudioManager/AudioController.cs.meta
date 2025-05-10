@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc3917be63276aa46ab6e1c604b356dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _compAudioMixer: {instanceID: 0}
+  - masterVolumeConfig: {instanceID: 0}
+  - musicVolumeConfig: {instanceID: 0}
+  - sfxVolumeConfig: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
